@@ -10,6 +10,7 @@ The box links below open content overlays (each is a Wordpress post) with option
 
 Now you can also create standalone WordPress pages in case you have more info than you want to show in a front box, so it can link internally to a full page
 
+HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR! HODOR!
 
 ![Static Page](images/dimension-page.jpg "Static Page")
 

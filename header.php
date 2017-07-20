@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<title>Glitch</title>
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="profile" href="http://gmpg.org/xfn/11">
@@ -9,7 +10,7 @@
 		<style>
 		#bg:after {background-image: url("<?php header_image(); ?>");}
 		</style>
-		
+
 		<?php wp_head(); ?>
 	</head>
 	<body>
